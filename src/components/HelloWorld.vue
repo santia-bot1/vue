@@ -8,9 +8,9 @@
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">Babel</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener"> Vuex</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">Eslint</a></li>
     </ul>
     <h3>Essential Links</h3>
     <ul>
@@ -46,7 +46,7 @@ h3 {
   margin: 40px 0 0;
 }
 ul {
-  list-style-type: none;
+  list-style-type: none; 
   padding: 0;
 }
 li {
@@ -54,6 +54,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #996fed;
 }
 </style>
